@@ -1,5 +1,5 @@
 {
-  "name": "guid-handling",
+  "name": "@zaidkindman/guid-handling",
   "version": "1.0.0",
   "description": "a small js package to handle some guid operations",
   "main": "index.js",
