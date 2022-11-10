@@ -1,0 +1,22 @@
+{
+  "name": "guid-handling",
+  "version": "1.0.0",
+  "description": "a small js package to handle some guid operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaidKindman/guid-handling-js.git"
+  },
+  "keywords": [
+    "guid"
+  ],
+  "author": "Zaid Kindman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZaidKindman/guid-handling-js/issues"
+  },
+  "homepage": "https://github.com/ZaidKindman/guid-handling-js#readme"
+}
