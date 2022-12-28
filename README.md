@@ -8,7 +8,17 @@ npm i @zaidkindman/guid-handling
 ## Example
 ```javascript
 import { Guid } from "@zaidkindman/guid-handling"
-console.log(Guid.Empty);
+
+//empty guid
+console.log('Empty Guid: ', Guid.Empty);
+
+//generate new guid
+var newGuid = Guid.NewGuid();
+console.log('New Guid:', newGuid);
+
+//check if string is valid guid 
+console.log('Valid Guid: ', Guid.IsValid(newGuid));
+console.log('invalid Guid: ', Guid.IsValid('NotValid'));
 ```
 
 | API | Action |
